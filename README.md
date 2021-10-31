@@ -30,4 +30,4 @@ Colors 	| Carbon Gray, Twilight Blue, Sunrise Orange, Ocean Green
 
 ## Device image
 
-![Redmi 9T](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-power-0.jpg)
+![POCO M3](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m3-0.jpg)
