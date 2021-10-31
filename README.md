@@ -1,4 +1,4 @@
-Unified device tree for Xiaomi POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power.
+Unified device tree for Xiaomi POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power (codenamed _"juice"_).
 
 ## Device specifications
 
@@ -31,6 +31,7 @@ Jack | Yes, 3.5mm jack
 Sound | Dual speakers, 24-bit/192kHz audio
 Colors 	| Carbon Gray, Twilight Blue, Sunrise Orange, Ocean Green. Cool Blue, Poco Yellow, Power Black
 
-## Device image
+## Devices image
 
 ![POCO M3](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m3-0.jpg)
+![Redmi 9T](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-power-0.jpg)
